@@ -61,7 +61,7 @@
   <a href="mailto:livloo2033@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-BA90C6?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
-  <a href="https://www.linkedin.com/in/kaiomendes-dev/">
+  <a href="https://www.linkedin.com/in/kaiomendescosta/">
     <img src="https://img.shields.io/badge/LinkedIn-BA90C6?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
   <a href="https://github.com/Mang0-Juice">
