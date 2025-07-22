@@ -76,14 +76,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BA90C6&height=120&section=footer"/>
 
-
-Acesse meu portfólio em: ([https://mang0-juice.github.io/portfolio/](https://mang0-juice.github.io/portfolio/))  
-
 ---
 
-## Contato
-
-- LinkedIn: [linkedin.com/in/kaiomendescosta](https://www.linkedin.com/in/kaiomendescosta/)
-- GitHub: [github.com/Mang0-Juice](https://github.com/Mang0-Juice)
-- E-mail: livloo2033@gmail.com
 
